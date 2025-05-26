@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83505045376",
+    "project_id": "autochallan-a7445",
+    "storage_bucket": "autochallan-a7445.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83505045376:android:58ea5418b2d2e0a73a6b65",
+        "android_client_info": {
+          "package_name": "com.example.challanappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFTDeApW8r6xgz6UEfJqKNygzp-otIkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
